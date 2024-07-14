@@ -1,0 +1,3910 @@
+{
+    "message": "Success",
+    "data": {
+      "originDestinationOptions": [
+        {
+          "sectorSequence": 1,
+          "flights": [
+            {
+              "flightId": "LA9705",
+              "airlineName": "Latam Airlines Group",
+              "airlineLogo": "https://engines.resvoyage.com/content/airline-logos/LA.png",
+              "departureAirport": "EZE",
+              "DepartureDate": "2023-11-20T18:27:00",
+              "arrivalAirport": "SCL",
+              "ArrivalDate": "2023-11-20T20:54:00",
+              "duration": "02:27:00",
+              "stops": [],
+              "MarketingAirlineName": "Latam Airlines Group",
+              "OperatingAirlineName": "Latam Airlines Group",
+              "marketingCarrier": [
+                "LA9705"
+              ],
+              "freeBaggages": null,
+              "cabin": "Economy",
+              "Aircraft": "AIRBUS INDUSTRIE A320-100/200 JET"
+            },
+            {
+              "flightId": "LA472",
+              "airlineName": "Latam Airlines Group",
+              "airlineLogo": "https://engines.resvoyage.com/content/airline-logos/LA.png",
+              "departureAirport": "EZE",
+              "DepartureDate": "2023-11-20T05:44:00",
+              "arrivalAirport": "SCL",
+              "ArrivalDate": "2023-11-20T08:00:00",
+              "Duration": "02:16:00",
+              "stops": [],
+              "MarketingAirlineName": "Latam Airlines Group",
+              "OperatingAirlineName": "Latam Airlines Group",
+              "marketingCarrier": [
+                "LA472"
+              ],
+              "freeBaggages": null,
+              "cabin": "Economy",
+              "Aircraft": "AIRBUS INDUSTRIE A320-100/200 JET"
+            },
+            {
+              "flightId": "LA476",
+              "airlineName": "Latam Airlines Group",
+              "airlineLogo": "https://engines.resvoyage.com/content/airline-logos/LA.png",
+              "departureAirport": "EZE",
+              "DepartureDate": "2023-11-20T19:15:00",
+              "arrivalAirport": "SCL",
+              "ArrivalDate": "2023-11-20T21:31:00",
+              "Duration": "02:16:00",
+              "stops": [],
+              "MarketingAirlineName": "Latam Airlines Group",
+              "OperatingAirlineName": "Latam Airlines Group",
+              "marketingCarrier": [
+                "LA476"
+              ],
+              "freeBaggages": null,
+              "cabin": "Economy",
+              "Aircraft": "AIRBUS INDUSTRIE A320-100/200 JET"
+            },
+            {
+              "flightId": "LA452",
+              "airlineName": "Latam Airlines Group",
+              "airlineLogo": "https://engines.resvoyage.com/content/airline-logos/LA.png",
+              "departureAirport": "EZE",
+              "DepartureDate": "2023-11-20T10:00:00",
+              "arrivalAirport": "SCL",
+              "ArrivalDate": "2023-11-20T12:19:00",
+              "Duration": "02:19:00",
+              "stops": [],
+              "MarketingAirlineName": "Latam Airlines Group",
+              "OperatingAirlineName": "Latam Airlines Group",
+              "marketingCarrier": [
+                "LA476"
+              ],
+              "freeBaggages": null,
+              "cabin": "Economy",
+              "Aircraft": "AIRBUS INDUSTRIE A320-100/200 JET"
+            },
+            {
+              "flightId": "LA450",
+              "airlineName": "Latam Airlines Group",
+              "airlineLogo": "https://engines.resvoyage.com/content/airline-logos/LA.png",
+              "departureAirport": "EZE",
+              "DepartureDate": "2023-11-20T15:13:00",
+              "arrivalAirport": "SCL",
+              "ArrivalDate": "2023-11-20T17:29:00",
+              "Duration": "02:16:00",
+              "stops": [],
+              "MarketingAirlineName": "Latam Airlines Group",
+              "OperatingAirlineName": "Latam Airlines Group",
+              "marketingCarrier": [
+                "LA450"
+              ],
+              "freeBaggages": null,
+              "cabin": "Economy",
+              "Aircraft": "AIRBUS INDUSTRIE A320-100/200 JET"
+            }
+          ]
+        },
+        {
+          "sectorSequence": 2,
+          "flights": [
+            {
+              "flightId": "LA9706",
+              "airlineName": "Latam Airlines Group",
+              "airlineLogo": "https://engines.resvoyage.com/content/airline-logos/LA.png",
+              "departureAirport": "SCL",
+              "DepartureDate": "2023-11-25T17:36:00",
+              "arrivalAirport": "SCL",
+              "ArrivalDate": "2023-11-25T19:33:00",
+              "duration": "01:57:00",
+              "stops": [],
+              "MarketingAirlineName": "Latam Airlines Group",
+              "OperatingAirlineName": "Latam Airlines Group",
+              "marketingCarrier": [
+                "LA9706"
+              ],
+              "freeBaggages": null,
+              "cabin": "Economy",
+              "Aircraft": "AIRBUS INDUSTRIE A320-100/200 JET"
+            },
+            {
+              "flightId": "LA657",
+              "airlineName": "Latam Airlines Group",
+              "airlineLogo": "https://engines.resvoyage.com/content/airline-logos/LA.png",
+              "departureAirport": "SCL",
+              "DepartureDate": "2023-11-25T18:07:00",
+              "arrivalAirport": "SCL",
+              "ArrivalDate": "2023-11-25T20:10:00",
+              "Duration": "02:03:00",
+              "stops": [],
+              "MarketingAirlineName": "Latam Airlines Group",
+              "OperatingAirlineName": "Latam Airlines Group",
+              "marketingCarrier": [
+                "LA9706"
+              ],
+              "freeBaggages": null,
+              "cabin": "Economy",
+              "Aircraft": "AIRBUS INDUSTRIE A320-100/200 JET"
+            },
+            {
+              "flightId": "LA471",
+              "airlineName": "Latam Airlines Group",
+              "airlineLogo": "https://engines.resvoyage.com/content/airline-logos/LA.png",
+              "departureAirport": "SCL",
+              "DepartureDate": "2023-11-25T21:22:00",
+              "arrivalAirport": "SCL",
+              "ArrivalDate": "2023-11-25T23:25:00",
+              "Duration": "02:03:00",
+              "stops": [],
+              "MarketingAirlineName": "Latam Airlines Group",
+              "OperatingAirlineName": "Latam Airlines Group",
+              "marketingCarrier": [
+                "LA471"
+              ],
+              "freeBaggages": null,
+              "cabin": "Economy",
+              "Aircraft": "AIRBUS INDUSTRIE A320-100/200 JET"
+            },
+            {
+              "flightId": "LA477",
+              "airlineName": "Latam Airlines Group",
+              "airlineLogo": "https://engines.resvoyage.com/content/airline-logos/LA.png",
+              "departureAirport": "SCL",
+              "DepartureDate": "2023-11-25T16:22:00",
+              "arrivalAirport": "SCL",
+              "ArrivalDate": "2023-11-25T18:25:00",
+              "Duration": "02:03:00",
+              "stops": [],
+              "MarketingAirlineName": "Latam Airlines Group",
+              "OperatingAirlineName": "Latam Airlines Group",
+              "marketingCarrier": [
+                "LA477"
+              ],
+              "freeBaggages": null,
+              "cabin": "Economy",
+              "Aircraft": "AIRBUS INDUSTRIE A320-100/200 JET"
+            },
+            {
+              "flightId": "LA451",
+              "airlineName": "Latam Airlines Group",
+              "airlineLogo": "https://engines.resvoyage.com/content/airline-logos/LA.png",
+              "departureAirport": "SCL",
+              "DepartureDate": "2023-11-25T17:36:00",
+              "arrivalAirport": "SCL",
+              "ArrivalDate": "2023-11-25T18:25:00",
+              "Duration": "02:02:00",
+              "stops": [],
+              "MarketingAirlineName": "Latam Airlines Group",
+              "OperatingAirlineName": "Latam Airlines Group",
+              "marketingCarrier": [
+                "LA451"
+              ],
+              "freeBaggages": null,
+              "cabin": "Economy",
+              "Aircraft": "AIRBUS INDUSTRIE A320-100/200 JET"
+            }
+          ]
+        }
+      ],
+      "combinations": [
+        {
+          "Id": "432f52bf-9df8-4e5c-97bb-7358e273b3cf",
+          "flightIds": [
+            "LA9705",
+            "LA9706"
+          ],
+          "fareFamily": "BASIC",
+          "rawFareFamily": "BASIC-QP-219907",
+          "TicketTimeLimit": "2023-10-25T23:00:00",
+          "BookingInstructions": [
+            {
+              "sectorSequence": 1,
+              "flightId": "LA9705",
+              "BookingClass": "A"
+            },
+            {
+              "sectorSequence": 2,
+              "flightId": "LA9706",
+              "BookingClass": "A"
+            }
+          ]
+        },
+        {
+          "Id": "dfe5aeb2-5647-443d-86e0-417c1615fe91",
+          "flightIds": [
+            "LA9705",
+            "LA657"
+          ],
+          "fareFamily": "BASIC",
+          "rawFareFamily": "BASIC-QP-219907",
+          "TicketTimeLimit": "2023-10-25T23:00:00",
+          "BookingInstructions": [
+            {
+              "sectorSequence": 1,
+              "flightId": "LA9705",
+              "BookingClass": "A"
+            },
+            {
+              "sectorSequence": 2,
+              "flightId": "LA657",
+              "BookingClass": "A"
+            }
+          ]
+        },
+        {
+          "Id": "57e0a881-826f-49fa-8574-9e3404840494",
+          "flightIds": [
+            "LA9705",
+            "LA471"
+          ],
+          "fareFamily": "BASIC",
+          "rawFareFamily": "BASIC-QP-219907",
+          "TicketTimeLimit": "2023-10-25T23:00:00",
+          "BookingInstructions": [
+            {
+              "sectorSequence": 1,
+              "flightId": "LA9705",
+              "BookingClass": "A"
+            },
+            {
+              "sectorSequence": 2,
+              "flightId": "LA657",
+              "BookingClass": "A"
+            }
+          ]
+        },
+        {
+          "Id": "f461dafb-c097-43dd-8834-a46ccca8a1e1",
+          "flightIds": [
+            "LA472",
+            "LA9706"
+          ],
+          "fareFamily": "BASIC",
+          "rawFareFamily": "BASIC-QP-219907",
+          "TicketTimeLimit": "2023-10-25T23:00:00",
+          "BookingInstructions": [
+            {
+              "sectorSequence": 1,
+              "flightId": "LA472",
+              "BookingClass": "G"
+            },
+            {
+              "sectorSequence": 2,
+              "flightId": "LA9706",
+              "BookingClass": "A"
+            }
+          ]
+        }
+      ],
+      "PricedItineraries": [
+        {
+          "AirItineraryPricingInfo": {
+            "TotalPrice": 244.8,
+            "BasePrice": 110,
+            "pricePerSequenceSector": [
+              {
+                "sequenceSector": 1,
+                "averageBasePrice": 55,
+                "averageTaxPrice": 67.4
+              },
+              {
+                "sequenceSector": 2,
+                "averageBasePrice": 55,
+                "averageTaxPrice": 67.4
+              }
+            ],
+            "Tax": 134.8,
+            "Markup": 0,
+            "ServiceFee": 0,
+            "ItinerarySurchargePrice": 0,
+            "Discount": 0,
+            "PromotionalDiscount": 0,
+            "CurrencyCode": "USD",
+            "PTC_FareBreakdowns": [
+              {
+                "PTCIdentifier": null,
+                "Baggages": [
+                  {
+                    "SequenceNumber": 1,
+                    "FlightNumber": "9705",
+                    "FreeQuantity": 0,
+                    "Id": null,
+                    "PassengerId": null,
+                    "Title": null,
+                    "Description": null,
+                    "Amount": null,
+                    "PassengerCode": "ADT",
+                    "BagAllowanceType": "Piece",
+                    "BagAllowanceUnit": "K"
+                  },
+                  {
+                    "SequenceNumber": 2,
+                    "FlightNumber": "9706",
+                    "FreeQuantity": 0,
+                    "Id": null,
+                    "PassengerId": null,
+                    "Title": null,
+                    "Description": null,
+                    "Amount": null,
+                    "PassengerCode": "ADT",
+                    "BagAllowanceType": "Piece",
+                    "BagAllowanceUnit": "K"
+                  }
+                ],
+                "FlightExtrasInfo": null,
+                "BasePriceFromItinerary": 110,
+                "BasePrice": 110,
+                "pricePerSequenceSector": [
+                  {
+                    "sequenceSector": 1,
+                    "averageBasePrice": 55,
+                    "averageTaxPrice": 67.4
+                  },
+                  {
+                    "sequenceSector": 2,
+                    "averageBasePrice": 55,
+                    "averageTaxPrice": 67.4
+                  }
+                ],
+                "Markup": 0,
+                "Discount": 0,
+                "Tax": 134.8,
+                "Surcharge": 0,
+                "DiscountAmountFromContract": 0,
+                "PromotionalDiscount": 0,
+                "TotalDiscount": 0,
+                "TotalPrice": 244.8,
+                "PassengerCount": 1,
+                "PassengerType": "ADT",
+                "CodeContext": null,
+                "MarkupBreakdown": [],
+                "DiscountBreakdown": [],
+                "PromotionalDiscountBreakdown": [],
+                "ContractManagerDiscountBreakdown": null,
+                "AllDiscountBreakdowns": [],
+                "FareBasisCodes": [
+                  "ALEQPZ6I",
+                  "ALEQPZ6I"
+                ]
+              }
+            ],
+            "PricingSource": null,
+            "IsNegotiatedPrice": false,
+            "FareType": "Published",
+            "FareFamily": "BASIC-QP-219907",
+            "ValidatingAirlineCode": "LA",
+            "AdditionalFareInfos": [
+              {
+                "FareReference": "ALEQPZ6I",
+                "ValidatingAirlineCode": "",
+                "FareFamily": null,
+                "Cabin": "",
+                "DepartureAirport": "EZE",
+                "DepartureDate": "2023-11-20T18:27:00",
+                "ArrivalAirport": "SCL",
+                "Penalty": null
+              },
+              {
+                "FareReference": "ALEQPZ6I",
+                "ValidatingAirlineCode": "",
+                "FareFamily": null,
+                "Cabin": "",
+                "DepartureAirport": "SCL",
+                "DepartureDate": "2023-11-25T17:36:00",
+                "ArrivalAirport": "EZE",
+                "Penalty": null
+              }
+            ]
+          },
+          "Id": "432f52bf-9df8-4e5c-97bb-7358e273b3cf",
+          "Provider": "Sabre",
+          "OfficeId": "5YAI"
+        },
+        {
+          "AirItineraryPricingInfo": {
+            "TotalPrice": 244.8,
+            "BasePrice": 110,
+            "Tax": 134.8,
+            "Markup": 0,
+            "ServiceFee": 0,
+            "ItinerarySurchargePrice": 0,
+            "Discount": 0,
+            "PromotionalDiscount": 0,
+            "CurrencyCode": "USD",
+            "PTC_FareBreakdowns": [
+              {
+                "PTCIdentifier": null,
+                "Baggages": [
+                  {
+                    "SequenceNumber": 1,
+                    "FlightNumber": "9705",
+                    "FreeQuantity": 0,
+                    "Id": null,
+                    "PassengerId": null,
+                    "Title": null,
+                    "Description": null,
+                    "Amount": null,
+                    "PassengerCode": "ADT",
+                    "BagAllowanceType": "Piece",
+                    "BagAllowanceUnit": "K"
+                  },
+                  {
+                    "SequenceNumber": 2,
+                    "FlightNumber": "657",
+                    "FreeQuantity": 0,
+                    "Id": null,
+                    "PassengerId": null,
+                    "Title": null,
+                    "Description": null,
+                    "Amount": null,
+                    "PassengerCode": "ADT",
+                    "BagAllowanceType": "Piece",
+                    "BagAllowanceUnit": "K"
+                  }
+                ],
+                "FlightExtrasInfo": null,
+                "BasePriceFromItinerary": 110,
+                "BasePrice": 110,
+                "Markup": 0,
+                "Discount": 0,
+                "Tax": 134.8,
+                "Surcharge": 0,
+                "DiscountAmountFromContract": 0,
+                "PromotionalDiscount": 0,
+                "TotalDiscount": 0,
+                "TotalPrice": 244.8,
+                "PassengerCount": 1,
+                "PassengerType": "ADT",
+                "CodeContext": null,
+                "MarkupBreakdown": [],
+                "DiscountBreakdown": [],
+                "PromotionalDiscountBreakdown": [],
+                "ContractManagerDiscountBreakdown": null,
+                "AllDiscountBreakdowns": [],
+                "FareBasisCodes": [
+                  "ALEQPZ6I",
+                  "ALEQPZ6I"
+                ]
+              }
+            ],
+            "PricingSource": null,
+            "IsNegotiatedPrice": false,
+            "FareType": "Published",
+            "FareFamily": "BASIC-QP-219907",
+            "ValidatingAirlineCode": "LA",
+            "AdditionalFareInfos": [
+              {
+                "FareReference": "ALEQPZ6I",
+                "ValidatingAirlineCode": "",
+                "FareFamily": null,
+                "Cabin": "",
+                "DepartureAirport": "EZE",
+                "DepartureDate": "2023-11-20T18:27:00",
+                "ArrivalAirport": "SCL",
+                "Penalty": null
+              },
+              {
+                "FareReference": "ALEQPZ6I",
+                "ValidatingAirlineCode": "",
+                "FareFamily": null,
+                "Cabin": "",
+                "DepartureAirport": "SCL",
+                "DepartureDate": "2023-11-25T18:07:00",
+                "ArrivalAirport": "EZE",
+                "Penalty": null
+              }
+            ],
+            "TaxBreakdown": null
+          },
+          "Id": "dfe5aeb2-5647-443d-86e0-417c1615fe91",
+          "PolicyType": null,
+          "DeepLinkUrl": "",
+          "Provider": "Sabre",
+          "OfficeId": "5YAI",
+          "UseTravelFusionTFPay": false,
+          "TravelFusionReferenceNumber": null
+        }
+      ],
+      "fareFamilies": [
+        {
+          "Code": "PREMIUM LIGHT-PREMLIGHT-219135",
+          "Name": "PREMIUM LIGHT",
+          "Owner": "KL",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "050",
+              "Name": "CHOICE OF STANDARD SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "05Z",
+              "Name": "BUSINESS CLASS SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06H",
+              "Name": "BUSINESS CLASS MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07H",
+              "Name": "GO SHOW",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07G",
+              "Name": "SKY PRIORITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06A",
+              "Name": "LIGHT MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06B",
+              "Name": "STANDARD MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06D",
+              "Name": "FLEX MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "058",
+              "Name": "UPGRADE ELIGIBILITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0FA",
+              "Name": "CHECKED BAG 2PC OF 23KGS 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C3",
+              "Name": "CHECKED BAG 1PC OF 23KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0MR",
+              "Name": "CABIN BAGGAGE 12KG 1PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MS",
+              "Name": "CABIN BAGGAGE 18KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0FK",
+              "Name": "CHECKED BAG 2PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C6",
+              "Name": "CHECKED BAG 1PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MP",
+              "Name": "CABIN BAGGAGE 12KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0BX",
+              "Name": "LOUNGE ACCESS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AT",
+              "Name": "SNACK",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AX",
+              "Name": "BEVERAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "PREMIUM STANDARD-PREMSTAND-219135",
+          "Name": "PREMIUM STANDARD",
+          "Owner": "KL",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "050",
+              "Name": "CHOICE OF STANDARD SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "05Z",
+              "Name": "BUSINESS CLASS SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06H",
+              "Name": "BUSINESS CLASS MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07H",
+              "Name": "GO SHOW",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07G",
+              "Name": "SKY PRIORITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06A",
+              "Name": "LIGHT MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06B",
+              "Name": "STANDARD MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06D",
+              "Name": "FLEX MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "058",
+              "Name": "UPGRADE ELIGIBILITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0FA",
+              "Name": "CHECKED BAG 2PC OF 23KGS 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0C3",
+              "Name": "CHECKED BAG 1PC OF 23KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MR",
+              "Name": "CABIN BAGGAGE 12KG 1PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MS",
+              "Name": "CABIN BAGGAGE 18KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0FK",
+              "Name": "CHECKED BAG 2PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C6",
+              "Name": "CHECKED BAG 1PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MP",
+              "Name": "CABIN BAGGAGE 12KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0BX",
+              "Name": "LOUNGE ACCESS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AT",
+              "Name": "SNACK",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AX",
+              "Name": "BEVERAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "PREMIUM FLEX-PREMFLEX-219135",
+          "Name": "PREMIUM FLEX",
+          "Owner": "KL",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "050",
+              "Name": "CHOICE OF STANDARD SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "05Z",
+              "Name": "BUSINESS CLASS SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06H",
+              "Name": "BUSINESS CLASS MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "07H",
+              "Name": "GO SHOW",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07G",
+              "Name": "SKY PRIORITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06A",
+              "Name": "LIGHT MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06B",
+              "Name": "STANDARD MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06D",
+              "Name": "FLEX MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "058",
+              "Name": "UPGRADE ELIGIBILITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0FA",
+              "Name": "CHECKED BAG 2PC OF 23KGS 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0C3",
+              "Name": "CHECKED BAG 1PC OF 23KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MR",
+              "Name": "CABIN BAGGAGE 12KG 1PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MS",
+              "Name": "CABIN BAGGAGE 18KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0FK",
+              "Name": "CHECKED BAG 2PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C6",
+              "Name": "CHECKED BAG 1PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MP",
+              "Name": "CABIN BAGGAGE 12KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0BX",
+              "Name": "LOUNGE ACCESS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AT",
+              "Name": "SNACK",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AX",
+              "Name": "BEVERAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "PREMIUM-PREMIUM-219135",
+          "Name": "PREMIUM",
+          "Owner": "KL",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "050",
+              "Name": "CHOICE OF STANDARD SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "05Z",
+              "Name": "BUSINESS CLASS SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06H",
+              "Name": "BUSINESS CLASS MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07H",
+              "Name": "GO SHOW",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07G",
+              "Name": "SKY PRIORITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06A",
+              "Name": "LIGHT MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06B",
+              "Name": "STANDARD MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06D",
+              "Name": "FLEX MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "058",
+              "Name": "UPGRADE ELIGIBILITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0FA",
+              "Name": "CHECKED BAG 2PC OF 23KGS 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0C3",
+              "Name": "CHECKED BAG 1PC OF 23KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MR",
+              "Name": "CABIN BAGGAGE 12KG 1PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MS",
+              "Name": "CABIN BAGGAGE 18KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0FK",
+              "Name": "CHECKED BAG 2PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C6",
+              "Name": "CHECKED BAG 1PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MP",
+              "Name": "CABIN BAGGAGE 12KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0BX",
+              "Name": "LOUNGE ACCESS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AT",
+              "Name": "SNACK",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AX",
+              "Name": "BEVERAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "PREMIUM ECONOMY-RY-219907",
+          "Name": "PREMIUM ECONOMY",
+          "Owner": "LA",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "06I",
+              "Name": "CHANGE BEFORE DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06J",
+              "Name": "CHANGE AFTER DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06K",
+              "Name": "REFUND BEFORE DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06L",
+              "Name": "REFUND AFTER DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "050",
+              "Name": "BASIC SEAT RESERVATION",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "05Z",
+              "Name": "PREMIUM SEAT RESERVATION",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0CC",
+              "Name": "FIRST EXCESS BAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0CD",
+              "Name": "SECOND EXCESS BAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0CE",
+              "Name": "THIRD BAG 23KG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "04J",
+              "Name": "LAPTOP OR HANDBAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0L5",
+              "Name": "CARRY ON HAND BAGGAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "PREMIUM ECONOMY LOWEST-PL-217995",
+          "Name": "PREMIUM ECONOMY LOWEST",
+          "Owner": "LA",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "05Z",
+              "Name": "PREMIUM SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "050",
+              "Name": "BASIC SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06A",
+              "Name": "25 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06B",
+              "Name": "50 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06D",
+              "Name": "100 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06R",
+              "Name": "125 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06M",
+              "Name": "150 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0CC",
+              "Name": "CHECKED BAG FIRST",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0CD",
+              "Name": "CHECKED BAG SECOND",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0L5",
+              "Name": "CARRY ON HAND BAGGAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0BX",
+              "Name": "PREPAID LOUNGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "CML",
+              "Name": "COMPLIMENTARY MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "SDC",
+              "Name": "SAME DAY CHANGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "03P",
+              "Name": "PRIORITY CHECK IN",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "BUSINESS LIGHT-BIZLIGHT-219135",
+          "Name": "BUSINESS LIGHT",
+          "Owner": "KL",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "050",
+              "Name": "CHOICE OF STANDARD SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "05Z",
+              "Name": "BUSINESS CLASS SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "06H",
+              "Name": "BUSINESS CLASS MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07H",
+              "Name": "GO SHOW",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07G",
+              "Name": "SKY PRIORITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06A",
+              "Name": "LIGHT MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06B",
+              "Name": "STANDARD MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06D",
+              "Name": "FLEX MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "058",
+              "Name": "UPGRADE ELIGIBILITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0FA",
+              "Name": "CHECKED BAG 2PC OF 23KGS 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C3",
+              "Name": "CHECKED BAG 1PC OF 23KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MR",
+              "Name": "CABIN BAGGAGE 12KG 1PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MS",
+              "Name": "CABIN BAGGAGE 18KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0FK",
+              "Name": "CHECKED BAG 2PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C6",
+              "Name": "CHECKED BAG 1PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0MP",
+              "Name": "CABIN BAGGAGE 12KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0BX",
+              "Name": "LOUNGE ACCESS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AT",
+              "Name": "SNACK",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AX",
+              "Name": "BEVERAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "BUSINESS STANDARD-BIZSTAND-219135",
+          "Name": "BUSINESS STANDARD",
+          "Owner": "KL",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "050",
+              "Name": "CHOICE OF STANDARD SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "05Z",
+              "Name": "BUSINESS CLASS SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "06H",
+              "Name": "BUSINESS CLASS MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07H",
+              "Name": "GO SHOW",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07G",
+              "Name": "SKY PRIORITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06A",
+              "Name": "LIGHT MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06B",
+              "Name": "STANDARD MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06D",
+              "Name": "FLEX MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "058",
+              "Name": "UPGRADE ELIGIBILITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0FA",
+              "Name": "CHECKED BAG 2PC OF 23KGS 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C3",
+              "Name": "CHECKED BAG 1PC OF 23KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MR",
+              "Name": "CABIN BAGGAGE 12KG 1PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MS",
+              "Name": "CABIN BAGGAGE 18KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0FK",
+              "Name": "CHECKED BAG 2PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0C6",
+              "Name": "CHECKED BAG 1PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MP",
+              "Name": "CABIN BAGGAGE 12KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0BX",
+              "Name": "LOUNGE ACCESS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AT",
+              "Name": "SNACK",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AX",
+              "Name": "BEVERAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "BUSINESS FLEX-BIZFLEX-219135",
+          "Name": "BUSINESS FLEX",
+          "Owner": "KL",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "050",
+              "Name": "CHOICE OF STANDARD SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "05Z",
+              "Name": "BUSINESS CLASS SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06H",
+              "Name": "BUSINESS CLASS MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "07H",
+              "Name": "GO SHOW",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07G",
+              "Name": "SKY PRIORITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06A",
+              "Name": "LIGHT MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06B",
+              "Name": "STANDARD MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06D",
+              "Name": "FLEX MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "058",
+              "Name": "UPGRADE ELIGIBILITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0FA",
+              "Name": "CHECKED BAG 2PC OF 23KGS 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C3",
+              "Name": "CHECKED BAG 1PC OF 23KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MR",
+              "Name": "CABIN BAGGAGE 12KG 1PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MS",
+              "Name": "CABIN BAGGAGE 18KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0FK",
+              "Name": "CHECKED BAG 2PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0C6",
+              "Name": "CHECKED BAG 1PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MP",
+              "Name": "CABIN BAGGAGE 12KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0BX",
+              "Name": "LOUNGE ACCESS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AT",
+              "Name": "SNACK",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AX",
+              "Name": "BEVERAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "BUSINESS-BUSINESS-219135",
+          "Name": "BUSINESS",
+          "Owner": "KL",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "050",
+              "Name": "CHOICE OF STANDARD SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "05Z",
+              "Name": "BUSINESS CLASS SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06H",
+              "Name": "BUSINESS CLASS MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07H",
+              "Name": "GO SHOW",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07G",
+              "Name": "SKY PRIORITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06A",
+              "Name": "LIGHT MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06B",
+              "Name": "STANDARD MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06D",
+              "Name": "FLEX MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "058",
+              "Name": "UPGRADE ELIGIBILITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0FA",
+              "Name": "CHECKED BAG 2PC OF 23KGS 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C3",
+              "Name": "CHECKED BAG 1PC OF 23KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MR",
+              "Name": "CABIN BAGGAGE 12KG 1PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MS",
+              "Name": "CABIN BAGGAGE 18KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0FK",
+              "Name": "CHECKED BAG 2PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0C6",
+              "Name": "CHECKED BAG 1PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MP",
+              "Name": "CABIN BAGGAGE 12KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0BX",
+              "Name": "LOUNGE ACCESS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AT",
+              "Name": "SNACK",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AX",
+              "Name": "BEVERAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "BUSINESS LOWEST-EL-217995",
+          "Name": "BUSINESS LOWEST",
+          "Owner": "LA",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "05Z",
+              "Name": "PREMIUM SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "050",
+              "Name": "BASIC SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06A",
+              "Name": "25 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06B",
+              "Name": "50 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06D",
+              "Name": "100 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06R",
+              "Name": "125 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06M",
+              "Name": "150 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0CC",
+              "Name": "CHECKED BAG FIRST",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0CD",
+              "Name": "CHECKED BAG SECOND",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0L5",
+              "Name": "CARRY ON HAND BAGGAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0BX",
+              "Name": "PREPAID LOUNGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "CML",
+              "Name": "COMPLIMENTARY MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "SDC",
+              "Name": "SAME DAY CHANGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "03P",
+              "Name": "PRIORITY CHECK IN",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "PREMIUM BUSINESS-EJ-219907",
+          "Name": "PREMIUM BUSINESS",
+          "Owner": "LA",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "06I",
+              "Name": "CHANGE BEFORE DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06J",
+              "Name": "CHANGE AFTER DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06K",
+              "Name": "REFUND BEFORE DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06L",
+              "Name": "REFUND AFTER DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "050",
+              "Name": "BASIC SEAT RESERVATION",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "05Z",
+              "Name": "PREMIUM SEAT RESERVATION",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0CC",
+              "Name": "FIRST EXCESS BAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0CD",
+              "Name": "SECOND EXCESS BAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0CE",
+              "Name": "THIRD BAG 23KG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "04J",
+              "Name": "LAPTOP OR HANDBAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0L5",
+              "Name": "CARRY ON HAND BAGGAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "BASIC-QP-219907",
+          "Name": "BASIC",
+          "Owner": "LA",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "06I",
+              "Name": "CHANGE BEFORE DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "06J",
+              "Name": "CHANGE AFTER DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "06K",
+              "Name": "REFUND BEFORE DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06L",
+              "Name": "REFUND AFTER DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "050",
+              "Name": "BASIC SEAT RESERVATION",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "05Z",
+              "Name": "PREMIUM SEAT RESERVATION",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0CC",
+              "Name": "FIRST EXCESS BAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0CD",
+              "Name": "SECOND EXCESS BAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0CE",
+              "Name": "THIRD BAG 23KG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "04J",
+              "Name": "LAPTOP OR HANDBAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0L5",
+              "Name": "CARRY ON HAND BAGGAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            }
+          ]
+        },
+        {
+          "Code": "LIGHT-SL-219907",
+          "Name": "LIGHT",
+          "Owner": "LA",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "06I",
+              "Name": "CHANGE BEFORE DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "06J",
+              "Name": "CHANGE AFTER DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "06K",
+              "Name": "REFUND BEFORE DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06L",
+              "Name": "REFUND AFTER DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "050",
+              "Name": "BASIC SEAT RESERVATION",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "05Z",
+              "Name": "PREMIUM SEAT RESERVATION",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0CC",
+              "Name": "FIRST EXCESS BAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0CD",
+              "Name": "SECOND EXCESS BAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0CE",
+              "Name": "THIRD BAG 23KG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "04J",
+              "Name": "LAPTOP OR HANDBAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0L5",
+              "Name": "CARRY ON HAND BAGGAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "FULL-KD-219907",
+          "Name": "FULL",
+          "Owner": "LA",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "06I",
+              "Name": "CHANGE BEFORE DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06J",
+              "Name": "CHANGE AFTER DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06K",
+              "Name": "REFUND BEFORE DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06L",
+              "Name": "REFUND AFTER DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "050",
+              "Name": "BASIC SEAT RESERVATION",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "05Z",
+              "Name": "PREMIUM SEAT RESERVATION",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0CC",
+              "Name": "FIRST EXCESS BAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0CD",
+              "Name": "SECOND EXCESS BAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0CE",
+              "Name": "THIRD BAG 23KG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "04J",
+              "Name": "LAPTOP OR HANDBAG",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0L5",
+              "Name": "CARRY ON HAND BAGGAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "ECONOMY LIGHT-LIGHT-219135",
+          "Name": "ECONOMY LIGHT",
+          "Owner": "KL",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "050",
+              "Name": "CHOICE OF STANDARD SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "05Z",
+              "Name": "BUSINESS CLASS SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06H",
+              "Name": "BUSINESS CLASS MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07H",
+              "Name": "GO SHOW",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07G",
+              "Name": "SKY PRIORITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06A",
+              "Name": "LIGHT MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06B",
+              "Name": "STANDARD MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06D",
+              "Name": "FLEX MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "058",
+              "Name": "UPGRADE ELIGIBILITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0FA",
+              "Name": "CHECKED BAG 2PC OF 23KGS 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C3",
+              "Name": "CHECKED BAG 1PC OF 23KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0MR",
+              "Name": "CABIN BAGGAGE 12KG 1PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0MS",
+              "Name": "CABIN BAGGAGE 18KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0FK",
+              "Name": "CHECKED BAG 2PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C6",
+              "Name": "CHECKED BAG 1PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MP",
+              "Name": "CABIN BAGGAGE 12KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0BX",
+              "Name": "LOUNGE ACCESS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AT",
+              "Name": "SNACK",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AX",
+              "Name": "BEVERAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "ECONOMY STANDARD-STANDARD-219135",
+          "Name": "ECONOMY STANDARD",
+          "Owner": "KL",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "050",
+              "Name": "CHOICE OF STANDARD SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "05Z",
+              "Name": "BUSINESS CLASS SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06H",
+              "Name": "BUSINESS CLASS MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07H",
+              "Name": "GO SHOW",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07G",
+              "Name": "SKY PRIORITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06A",
+              "Name": "LIGHT MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06B",
+              "Name": "STANDARD MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06D",
+              "Name": "FLEX MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "058",
+              "Name": "UPGRADE ELIGIBILITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0FA",
+              "Name": "CHECKED BAG 2PC OF 23KGS 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C3",
+              "Name": "CHECKED BAG 1PC OF 23KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0MR",
+              "Name": "CABIN BAGGAGE 12KG 1PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0MS",
+              "Name": "CABIN BAGGAGE 18KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0FK",
+              "Name": "CHECKED BAG 2PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C6",
+              "Name": "CHECKED BAG 1PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MP",
+              "Name": "CABIN BAGGAGE 12KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0BX",
+              "Name": "LOUNGE ACCESS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AT",
+              "Name": "SNACK",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AX",
+              "Name": "BEVERAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "ECONOMY FLEX-FLEX-219135",
+          "Name": "ECONOMY FLEX",
+          "Owner": "KL",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "050",
+              "Name": "CHOICE OF STANDARD SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "05Z",
+              "Name": "BUSINESS CLASS SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06H",
+              "Name": "BUSINESS CLASS MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "07H",
+              "Name": "GO SHOW",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07G",
+              "Name": "SKY PRIORITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06A",
+              "Name": "LIGHT MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06B",
+              "Name": "STANDARD MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06D",
+              "Name": "FLEX MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "058",
+              "Name": "UPGRADE ELIGIBILITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0FA",
+              "Name": "CHECKED BAG 2PC OF 23KGS 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C3",
+              "Name": "CHECKED BAG 1PC OF 23KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0MR",
+              "Name": "CABIN BAGGAGE 12KG 1PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0MS",
+              "Name": "CABIN BAGGAGE 18KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0FK",
+              "Name": "CHECKED BAG 2PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C6",
+              "Name": "CHECKED BAG 1PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MP",
+              "Name": "CABIN BAGGAGE 12KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0BX",
+              "Name": "LOUNGE ACCESS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AT",
+              "Name": "SNACK",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AX",
+              "Name": "BEVERAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "ECONOMY FULL  FLEX-FULLFLEX-219135",
+          "Name": "ECONOMY FULL  FLEX",
+          "Owner": "KL",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "050",
+              "Name": "CHOICE OF STANDARD SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "05Z",
+              "Name": "BUSINESS CLASS SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06H",
+              "Name": "BUSINESS CLASS MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "07H",
+              "Name": "GO SHOW",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "07G",
+              "Name": "SKY PRIORITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06A",
+              "Name": "LIGHT MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06B",
+              "Name": "STANDARD MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06D",
+              "Name": "FLEX MILES ACCRUAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "058",
+              "Name": "UPGRADE ELIGIBILITY",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0FA",
+              "Name": "CHECKED BAG 2PC OF 23KGS 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C3",
+              "Name": "CHECKED BAG 1PC OF 23KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0MR",
+              "Name": "CABIN BAGGAGE 12KG 1PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0MS",
+              "Name": "CABIN BAGGAGE 18KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0FK",
+              "Name": "CHECKED BAG 2PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0C6",
+              "Name": "CHECKED BAG 1PC OF 32KG 158CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0MP",
+              "Name": "CABIN BAGGAGE 12KG 2PC 115CM",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0BX",
+              "Name": "LOUNGE ACCESS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AT",
+              "Name": "SNACK",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0AX",
+              "Name": "BEVERAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        },
+        {
+          "Code": "STANDARD-TG-217995",
+          "Name": "STANDARD",
+          "Owner": "LA",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "05Z",
+              "Name": "PREMIUM SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "050",
+              "Name": "BASIC SEAT",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "059",
+              "Name": "CHANGEABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "056",
+              "Name": "REFUNDABLE TICKET",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06A",
+              "Name": "25 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06B",
+              "Name": "50 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "06D",
+              "Name": "100 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06R",
+              "Name": "125 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "06M",
+              "Name": "150 PERCENT MILES EARNED",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0CC",
+              "Name": "CHECKED BAG FIRST",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0CD",
+              "Name": "CHECKED BAG SECOND",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0L5",
+              "Name": "CARRY ON HAND BAGGAGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0BX",
+              "Name": "PREPAID LOUNGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "0B3",
+              "Name": "MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            },
+            {
+              "Code": "CML",
+              "Name": "COMPLIMENTARY MEAL",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "SDC",
+              "Name": "SAME DAY CHANGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "03P",
+              "Name": "PRIORITY CHECK IN",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "NotOffered"
+            }
+          ]
+        },
+        {
+          "Code": "LIGHT-LT-220031",
+          "Name": "LIGHT",
+          "Owner": "HR",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "06I",
+              "Name": "CHANGE BEFORE DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0GO",
+              "Name": "1RA MALETA IS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0L5",
+              "Name": "EQUIPAJE DE MANO IS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0FA",
+              "Name": "2DA MALETA IS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0B5",
+              "Name": "ASIENTO",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0L7",
+              "Name": "NAME CHANGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0BW",
+              "Name": "STARPASS IS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            }
+          ]
+        },
+        {
+          "Code": "PLUS-PL-220031",
+          "Name": "PLUS",
+          "Owner": "HR",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "06I",
+              "Name": "CHANGE BEFORE DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0GO",
+              "Name": "1RA MALETA IS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0L5",
+              "Name": "EQUIPAJE DE MANO IS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0FA",
+              "Name": "2DA MALETA IS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0B5",
+              "Name": "ASIENTO",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0L7",
+              "Name": "NAME CHANGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            },
+            {
+              "Code": "0BW",
+              "Name": "STARPASS IS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "AtCharge"
+            }
+          ]
+        },
+        {
+          "Code": "FULL-FL-220031",
+          "Name": "FULL",
+          "Owner": "HR",
+          "AirlineFareFamilyInfos": [
+            {
+              "Code": "06I",
+              "Name": "CHANGE BEFORE DEPARTURE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0GO",
+              "Name": "1RA MALETA IS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0L5",
+              "Name": "EQUIPAJE DE MANO IS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0FA",
+              "Name": "2DA MALETA IS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0B5",
+              "Name": "ASIENTO",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0L7",
+              "Name": "NAME CHANGE",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            },
+            {
+              "Code": "0BW",
+              "Name": "STARPASS IS",
+              "Group": null,
+              "SubGroup": null,
+              "RFIC": null,
+              "Type": "Included"
+            }
+          ]
+        }
+      ],
+      "cheapFlight": {
+        "flights": [
+          {
+            "airlineName": "Latam Airlines Group",
+            "airlineLogo": "https://engines.resvoyage.com/content/airline-logos/LA.png",
+            "departureAirport": "EZE",
+            "departureDate": "25 Oct",
+            "departureTime": "5:10 am",
+            "arrivalAirport": "SCL",
+            "arrivalDate": "25 Oct",
+            "arrivalTime": "7:37 am",
+            "duration": "02:27:00",
+            "stops": [],
+            "marketingCarrier": [
+              "LA472"
+            ],
+            "freeBaggages": null,
+            "cabin": "Economy"
+          }
+        ],
+        "totalAmount": 180.044,
+        "basePrice": 180.044,
+        "taxAndFees": 0,
+        "currencyCode": "USD",
+        "id": "942e8516-2429-4a36-991e-03dabf40946a",
+        "deepLinkUrl": "http://rest.resvoyage.com/api/v1/air/cart/add/?From1=EZE&To1=SCL&DepartureDate1=2023-10-25&Adults=1&FlightClass=NoPreference&FareAmount=174.8&OfficeId=5YAI&flightinfo=LA_472_G_5",
+        "officeId": "5YAI",
+        "sellerName": "Thomalex Test (Sabre)",
+        "fareFamily": "BASIC",
+        "rawFareFamily": "BASIC-QP-219907"
+      },
+      "bestFlight": {
+        "flights": [
+          {
+            "airlineName": "Klm Royal Dutch Airlines",
+            "airlineLogo": "https://engines.resvoyage.com/content/airline-logos/KL.png",
+            "departureAirport": "EZE",
+            "departureDate": "25 Oct",
+            "departureTime": "7:10 am",
+            "arrivalAirport": "SCL",
+            "arrivalDate": "25 Oct",
+            "arrivalTime": "9:20 am",
+            "duration": "02:10:00",
+            "stops": [],
+            "marketingCarrier": [
+              "KL701"
+            ],
+            "freeBaggages": null,
+            "cabin": "Economy"
+          }
+        ],
+        "totalAmount": 215.373,
+        "basePrice": 215.373,
+        "taxAndFees": 0,
+        "currencyCode": "USD",
+        "id": "83788600-e017-487c-a3aa-f62b7781fb8a",
+        "deepLinkUrl": "http://rest.resvoyage.com/api/v1/air/cart/add/?From1=EZE&To1=SCL&DepartureDate1=2023-10-25&Adults=1&FlightClass=NoPreference&FareAmount=209.1&OfficeId=5YAI&flightinfo=KL_701_V_7",
+        "officeId": "5YAI",
+        "sellerName": "Thomalex Test (Sabre)",
+        "fareFamily": "ECONOMY LIGHT",
+        "rawFareFamily": "ECONOMY LIGHT-LIGHT-219135"
+      },
+      "quickFlight": {
+        "flights": [
+          {
+            "airlineName": "Klm Royal Dutch Airlines",
+            "airlineLogo": "https://engines.resvoyage.com/content/airline-logos/KL.png",
+            "departureAirport": "EZE",
+            "departureDate": "25 Oct",
+            "departureTime": "7:10 am",
+            "arrivalAirport": "SCL",
+            "arrivalDate": "25 Oct",
+            "arrivalTime": "9:20 am",
+            "duration": "02:10:00",
+            "stops": [],
+            "marketingCarrier": [
+              "KL701"
+            ],
+            "freeBaggages": null,
+            "cabin": "Economy"
+          }
+        ],
+        "totalAmount": 215.373,
+        "basePrice": 215.373,
+        "taxAndFees": 0,
+        "currencyCode": "USD",
+        "id": "83788600-e017-487c-a3aa-f62b7781fb8a",
+        "deepLinkUrl": "http://rest.resvoyage.com/api/v1/air/cart/add/?From1=EZE&To1=SCL&DepartureDate1=2023-10-25&Adults=1&FlightClass=NoPreference&FareAmount=209.1&OfficeId=5YAI&flightinfo=KL_701_V_7",
+        "officeId": "5YAI",
+        "sellerName": "Thomalex Test (Sabre)",
+        "fareFamily": "ECONOMY LIGHT",
+        "rawFareFamily": "ECONOMY LIGHT-LIGHT-219135"
+      }
+    }
+  }
