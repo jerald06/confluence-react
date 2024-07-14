@@ -1,9 +1,8 @@
 {
-  "homepage": "https://jerald06/github.io/confluence-xeni",
+  "homepage": "https://jerald06.github.io/confluence-react",
   "name": "@coreui/coreui-free-react-admin-template",
   "version": "5.1.0",
   "description": "CoreUI Free React Admin Template",
-  "homepage": ".",
   "bugs": {
     "url": "https://github.com/coreui/coreui-free-react-admin-template/issues"
   },

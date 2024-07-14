@@ -101,9 +101,17 @@ const _nav = [
         ],
       },
       {
-        component: CNavItem,
-        name: 'List group',
-        to: '/base/list-groups',
+        component: CNavGroup,
+        name: 'Seat map',
+        to: '/base/Seat map',
+        icon: <CIcon icon={cilPuzzle} customClassName="nav-icon" />,
+        items: [
+          {
+            component: CNavItem,
+            name: 'BRD - Seat map - 2023-11-15',
+            to: '/base/list-groups',
+          },
+        ],
       },
       {
         component: CNavItem,

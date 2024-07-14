@@ -1,345 +1,515 @@
 import React from 'react'
-import {
-  CBadge,
-  CCard,
-  CCardBody,
-  CCardHeader,
-  CCol,
-  CFormCheck,
-  CListGroup,
-  CListGroupItem,
-  CRow,
-} from '@coreui/react'
-import { DocsExample } from 'src/components'
 
 const ListGroups = () => {
   return (
-    <CRow>
-      <CCol xs={12}>
-        <CCard className="mb-4">
-          <CCardHeader>
-            <strong>React List Group</strong> <small>Basic example</small>
-          </CCardHeader>
-          <CCardBody>
-            <p className="text-body-secondary small">
-              The default list group is an unordered list with items and the proper CSS classes.
-              Build upon it with the options that follow, or with your CSS as required.
-            </p>
-            <DocsExample href="components/list-group">
-              <CListGroup>
-                <CListGroupItem>Cras justo odio</CListGroupItem>
-                <CListGroupItem>Dapibus ac facilisis in</CListGroupItem>
-                <CListGroupItem>Morbi leo risus</CListGroupItem>
-                <CListGroupItem>Porta ac consectetur ac</CListGroupItem>
-                <CListGroupItem>Vestibulum at eros</CListGroupItem>
-              </CListGroup>
-            </DocsExample>
-          </CCardBody>
-        </CCard>
-      </CCol>
-      <CCol xs={12}>
-        <CCard className="mb-4">
-          <CCardHeader>
-            <strong>React List Group</strong> <small>Active items</small>
-          </CCardHeader>
-          <CCardBody>
-            <p className="text-body-secondary small">
-              Add <code>active</code> boolean property to a <code>&lt;CListGroupItem&gt;</code> to
-              show the current active selection.
-            </p>
-            <DocsExample href="components/list-group/#active-items">
-              <CListGroup>
-                <CListGroupItem active>Cras justo odio</CListGroupItem>
-                <CListGroupItem>Dapibus ac facilisis in</CListGroupItem>
-                <CListGroupItem>Morbi leo risus</CListGroupItem>
-                <CListGroupItem>Porta ac consectetur ac</CListGroupItem>
-                <CListGroupItem>Vestibulum at eros</CListGroupItem>
-              </CListGroup>
-            </DocsExample>
-          </CCardBody>
-        </CCard>
-      </CCol>
-      <CCol xs={12}>
-        <CCard className="mb-4">
-          <CCardHeader>
-            <strong>React List Group</strong> <small>Disabled items</small>
-          </CCardHeader>
-          <CCardBody>
-            <p className="text-body-secondary small">
-              Add <code>disabled</code> boolean property to a <code>&lt;CListGroupItem&gt;</code> to
-              make it appear disabled.
-            </p>
-            <DocsExample href="components/list-group/#disabled-items">
-              <CListGroup>
-                <CListGroupItem disabled>Cras justo odio</CListGroupItem>
-                <CListGroupItem>Dapibus ac facilisis in</CListGroupItem>
-                <CListGroupItem>Morbi leo risus</CListGroupItem>
-                <CListGroupItem>Porta ac consectetur ac</CListGroupItem>
-                <CListGroupItem>Vestibulum at eros</CListGroupItem>
-              </CListGroup>
-            </DocsExample>
-          </CCardBody>
-        </CCard>
-      </CCol>
-      <CCol xs={12}>
-        <CCard className="mb-4">
-          <CCardHeader>
-            <strong>React List Group</strong> <small>Links and buttons</small>
-          </CCardHeader>
-          <CCardBody>
-            <p className="text-body-secondary small">
-              Use <code>&lt;a&gt;</code>s or <code>&lt;button&gt;</code>s to create{' '}
-              <em>actionable</em> list group items with hover, disabled, and active states by adding{' '}
-              <code>component=&#34;a|button&#34;</code>. We separate these pseudo-classes to ensure
-              list groups made of non-interactive elements (like <code>&lt;li&gt;</code>s or{' '}
-              <code>&lt;div&gt;</code>
-              s) don&#39;tprovide a click or tap affordance.
-            </p>
-            <DocsExample href="components/list-group/#links-and-buttons">
-              <CListGroup>
-                <CListGroupItem as="a" href="#" active>
-                  Cras justo odio
-                </CListGroupItem>
-                <CListGroupItem as="a" href="#">
-                  Dapibus ac facilisis in
-                </CListGroupItem>
-                <CListGroupItem as="a" href="#">
-                  Morbi leo risus
-                </CListGroupItem>
-                <CListGroupItem as="a" href="#">
-                  Porta ac consectetur ac
-                </CListGroupItem>
-                <CListGroupItem as="a" href="#" disabled>
-                  Vestibulum at eros
-                </CListGroupItem>
-              </CListGroup>
-            </DocsExample>
-          </CCardBody>
-        </CCard>
-      </CCol>
-      <CCol xs={12}>
-        <CCard className="mb-4">
-          <CCardHeader>
-            <strong>React List Group</strong> <small>Flush</small>
-          </CCardHeader>
-          <CCardBody>
-            <p className="text-body-secondary small">
-              Add <code>flush</code> boolean property to remove some borders and rounded corners to
-              render list group items edge-to-edge in a parent container (e.g., cards).
-            </p>
-            <DocsExample href="components/list-group/#flush">
-              <CListGroup flush>
-                <CListGroupItem>Cras justo odio</CListGroupItem>
-                <CListGroupItem>Dapibus ac facilisis in</CListGroupItem>
-                <CListGroupItem>Morbi leo risus</CListGroupItem>
-                <CListGroupItem>Porta ac consectetur ac</CListGroupItem>
-                <CListGroupItem>Vestibulum at eros</CListGroupItem>
-              </CListGroup>
-            </DocsExample>
-          </CCardBody>
-        </CCard>
-      </CCol>
-      <CCol xs={12}>
-        <CCard className="mb-4">
-          <CCardHeader>
-            <strong>React List Group</strong> <small>Horizontal</small>
-          </CCardHeader>
-          <CCardBody>
-            <p className="text-body-secondary small">
-              Add <code>layout=&#34;horizontal&#34;</code> to change the layout of list group items
-              from vertical to horizontal across all breakpoints. Alternatively, choose a responsive
-              variant <code>.layout=&#34;horizontal-&#123;sm | md | lg | xl | xxl&#125;&#34;</code>{' '}
-              to make a list group horizontal starting at that breakpoint&#39;s{' '}
-              <code>min-width</code>. Currently{' '}
-              <strong>horizontal list groups cannot be combined with flush list groups.</strong>
-            </p>
-            <DocsExample href="components/list-group/#flush">
-              {['', '-sm', '-md', '-lg', '-xl', '-xxl'].map((breakpoint, index) => (
-                <CListGroup className="mb-2" layout={`horizontal${breakpoint}`} key={index}>
-                  <CListGroupItem>Cras justo odio</CListGroupItem>
-                  <CListGroupItem>Dapibus ac facilisis in</CListGroupItem>
-                  <CListGroupItem>Morbi leo risus</CListGroupItem>
-                </CListGroup>
-              ))}
-            </DocsExample>
-          </CCardBody>
-        </CCard>
-      </CCol>
-      <CCol xs={12}>
-        <CCard className="mb-4">
-          <CCardHeader>
-            <strong>React List Group</strong> <small>Contextual classes</small>
-          </CCardHeader>
-          <CCardBody>
-            <p className="text-body-secondary small">
-              Use contextual classes to style list items with a stateful background and color.
-            </p>
-            <DocsExample href="components/list-group/#contextual-classes">
-              <CListGroup>
-                <CListGroupItem>Dapibus ac facilisis in</CListGroupItem>
-                {[
-                  'primary',
-                  'secondary',
-                  'success',
-                  'danger',
-                  'warning',
-                  'info',
-                  'light',
-                  'dark',
-                ].map((color, index) => (
-                  <CListGroupItem color={color} key={index}>
-                    A simple {color} list group item
-                  </CListGroupItem>
-                ))}
-              </CListGroup>
-            </DocsExample>
-            <p className="text-body-secondary small">
-              Contextual classes also work with <code>&lt;a&gt;</code>s or{' '}
-              <code>&lt;button&gt;</code>s. Note the addition of the hover styles here not present
-              in the previous example. Also supported is the <code>active</code> state; apply it to
-              indicate an active selection on a contextual list group item.
-            </p>
-            <DocsExample href="components/list-group/#contextual-classes">
-              <CListGroup>
-                <CListGroupItem as="a" href="#">
-                  Dapibus ac facilisis in
-                </CListGroupItem>
-                {[
-                  'primary',
-                  'secondary',
-                  'success',
-                  'danger',
-                  'warning',
-                  'info',
-                  'light',
-                  'dark',
-                ].map((color, index) => (
-                  <CListGroupItem as="a" href="#" color={color} key={index}>
-                    A simple {color} list group item
-                  </CListGroupItem>
-                ))}
-              </CListGroup>
-            </DocsExample>
-          </CCardBody>
-        </CCard>
-      </CCol>
-      <CCol xs={12}>
-        <CCard className="mb-4">
-          <CCardHeader>
-            <strong>React List Group</strong> <small>With badges</small>
-          </CCardHeader>
-          <CCardBody>
-            <p className="text-body-secondary small">
-              Add badges to any list group item to show unread counts, activity, and more.
-            </p>
-            <DocsExample href="components/list-group/#with-badges">
-              <CListGroup>
-                <CListGroupItem className="d-flex justify-content-between align-items-center">
-                  Cras justo odio
-                  <CBadge color="primary" shape="rounded-pill">
-                    14
-                  </CBadge>
-                </CListGroupItem>
-                <CListGroupItem className="d-flex justify-content-between align-items-center">
-                  Dapibus ac facilisis in
-                  <CBadge color="primary" shape="rounded-pill">
-                    2
-                  </CBadge>
-                </CListGroupItem>
-                <CListGroupItem className="d-flex justify-content-between align-items-center">
-                  Morbi leo risus
-                  <CBadge color="primary" shape="rounded-pill">
-                    1
-                  </CBadge>
-                </CListGroupItem>
-              </CListGroup>
-            </DocsExample>
-          </CCardBody>
-        </CCard>
-      </CCol>
-      <CCol xs={12}>
-        <CCard className="mb-4">
-          <CCardHeader>
-            <strong>React List Group</strong> <small>Custom content</small>
-          </CCardHeader>
-          <CCardBody>
-            <p className="text-body-secondary small">
-              Add nearly any HTML within, even for linked list groups like the one below, with the
-              help of <a href="https://coreui.io/docs/utilities/flex/">flexbox utilities</a>.
-            </p>
-            <DocsExample href="components/list-group/#custom-content">
-              <CListGroup>
-                <CListGroupItem as="a" href="#" active>
-                  <div className="d-flex w-100 justify-content-between">
-                    <h5 className="mb-1">List group item heading</h5>
-                    <small>3 days ago</small>
+    <>
+      <title>XeniApp : BRD - Seat map - 2023-11-15</title>
+      <link rel="stylesheet" href="styles/site.css" type="text/css" />
+      <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
+      <div id="page">
+        <div id="main" className="aui-page-panel">
+          <div id="main-header">
+            <div id="breadcrumb-section">
+              <ol id="breadcrumbs">
+                <li className="first">
+                  <span>
+                    <a href="index.html">XeniApp</a>
+                  </span>
+                </li>
+                <li>
+                  <span>
+                    <a href="XeniApp_542179373.html">XeniApp</a>
+                  </span>
+                </li>
+                <li>
+                  <span>
+                    <a href="Projects_583761921.html">Projects</a>
+                  </span>
+                </li>
+                <li>
+                  <span>
+                    <a href="Seat-map_585433090.html">Seat map</a>
+                  </span>
+                </li>
+              </ol>
+            </div>
+            <h1 id="title-heading" className="pagetitle">
+              <span id="title-text">XeniApp : BRD - Seat map - 2023-11-15</span>
+            </h1>
+          </div>
+          <div id="content" className="view">
+            <div className="page-metadata">
+              Created by <span className="author"> Gerardo Nizetich</span>, last modified on Nov 15,
+              2023
+            </div>
+            <div id="main-content" className="wiki-content group">
+              <div className="contentLayout2">
+                <div className="columnLayout fixed-width" data-layout="fixed-width">
+                  <div className="cell normal" data-type="normal">
+                    <div className="innerCell">
+                      <div className="error">Error rendering macro 'toc' : null</div>
+                      <hr />
+                    </div>
                   </div>
-                  <p className="mb-1">
-                    Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus
-                    varius blandit.
-                  </p>
-                  <small>Donec id elit non mi porta.</small>
-                </CListGroupItem>
-                <CListGroupItem as="a" href="#">
-                  <div className="d-flex w-100 justify-content-between">
-                    <h5 className="mb-1">List group item heading</h5>
-                    <small className="text-body-secondary">3 days ago</small>
+                </div>
+                <div className="columnLayout two-left-sidebar" data-layout="two-left-sidebar">
+                  <div className="cell aside" data-type="aside">
+                    <div className="innerCell">
+                      <h2 id="BRD-Seatmap-2023-11-15-Author">Author</h2>
+                      <p>
+                        <a
+                          className="confluence-userlink user-mention"
+                          data-account-id="712020:af48e1a2-707e-4342-9a39-998de0ec4b11"
+                          href="https://xeni-workspace.atlassian.net/wiki/people/712020:af48e1a2-707e-4342-9a39-998de0ec4b11?ref=confluence"
+                          target="_blank"
+                          data-linked-resource-id={579633153}
+                          data-linked-resource-version={1}
+                          data-linked-resource-type="userinfo"
+                          data-base-url="https://xeni-workspace.atlassian.net/wiki"
+                        >
+                          Gerardo Nizetich
+                        </a>{' '}
+                      </p>
+                    </div>
                   </div>
-                  <p className="mb-1">
-                    Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus
-                    varius blandit.
-                  </p>
-                  <small className="text-body-secondary">Donec id elit non mi porta.</small>
-                </CListGroupItem>
-                <CListGroupItem as="a" href="#">
-                  <div className="d-flex w-100 justify-content-between">
-                    <h5 className="mb-1">List group item heading</h5>
-                    <small className="text-body-secondary">3 days ago</small>
+                  <div className="cell normal" data-type="normal">
+                    <div className="innerCell">
+                      <h3 id="BRD-Seatmap-2023-11-15-DocumentversionChanges">
+                        Document version Changes{' '}
+                      </h3>
+                      <div className="table-wrap">
+                        <table
+                          data-table-width={760}
+                          data-layout="default"
+                          data-local-id="9fe0c377-5bb2-4aad-982d-34e3458c6e22"
+                          className="confluenceTable"
+                        >
+                          <colgroup>
+                            <col style={{ width: '85.0px' }} />
+                            <col style={{ width: '115.0px' }} />
+                            <col style={{ width: '208.0px' }} />
+                            <col style={{ width: '438.0px' }} />
+                          </colgroup>
+                          <tbody>
+                            <tr>
+                              <th className="confluenceTh">
+                                <p>
+                                  <strong>Version</strong>
+                                </p>
+                              </th>
+                              <th className="confluenceTh">
+                                <p>
+                                  <strong>Date</strong>
+                                </p>
+                              </th>
+                              <th className="confluenceTh">
+                                <p>
+                                  <strong>Author</strong>
+                                </p>
+                              </th>
+                              <th className="confluenceTh">
+                                <p>
+                                  <strong>Change description</strong>
+                                </p>
+                              </th>
+                            </tr>
+                            <tr>
+                              <td className="confluenceTd">
+                                <p>1.0</p>
+                              </td>
+                              <td className="confluenceTd">
+                                <p>2023-11-15</p>
+                              </td>
+                              <td className="confluenceTd">
+                                <p>
+                                  <a
+                                    className="confluence-userlink user-mention"
+                                    data-account-id="712020:af48e1a2-707e-4342-9a39-998de0ec4b11"
+                                    href="https://xeni-workspace.atlassian.net/wiki/people/712020:af48e1a2-707e-4342-9a39-998de0ec4b11?ref=confluence"
+                                    target="_blank"
+                                    data-linked-resource-id={579633153}
+                                    data-linked-resource-version={1}
+                                    data-linked-resource-type="userinfo"
+                                    data-base-url="https://xeni-workspace.atlassian.net/wiki"
+                                  >
+                                    Gerardo Nizetich
+                                  </a>{' '}
+                                </p>
+                              </td>
+                              <td className="confluenceTd">
+                                <p>Original </p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="confluenceTd">
+                                <p />
+                              </td>
+                              <td className="confluenceTd">
+                                <p />
+                              </td>
+                              <td className="confluenceTd">
+                                <p />
+                              </td>
+                              <td className="confluenceTd">
+                                <p />
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
                   </div>
-                  <p className="mb-1">
-                    Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus
-                    varius blandit.
-                  </p>
-                  <small className="text-body-secondary">Donec id elit non mi porta.</small>
-                </CListGroupItem>
-              </CListGroup>
-            </DocsExample>
-          </CCardBody>
-        </CCard>
-      </CCol>
-      <CCol xs={12}>
-        <CCard className="mb-4">
-          <CCardHeader>
-            <strong>React List Group</strong> <small>Checkboxes and radios</small>
-          </CCardHeader>
-          <CCardBody>
-            <p className="text-body-secondary small">
-              Place CoreUI&#39;s checkboxes and radios within list group items and customize as
-              needed.
-            </p>
-            <DocsExample href="components/list-group/#checkboxes-and-radios">
-              <CListGroup>
-                <CListGroupItem>
-                  <CFormCheck label="Cras justo odio" />
-                </CListGroupItem>
-                <CListGroupItem>
-                  <CFormCheck label="Dapibus ac facilisis in" defaultChecked />
-                </CListGroupItem>
-                <CListGroupItem>
-                  <CFormCheck label="Morbi leo risus" defaultChecked />
-                </CListGroupItem>
-                <CListGroupItem>
-                  <CFormCheck label="orta ac consectetur ac" />
-                </CListGroupItem>
-                <CListGroupItem>
-                  <CFormCheck label="Vestibulum at eros" />
-                </CListGroupItem>
-              </CListGroup>
-            </DocsExample>
-          </CCardBody>
-        </CCard>
-      </CCol>
-    </CRow>
+                </div>
+                <div className="columnLayout fixed-width" data-layout="fixed-width">
+                  <div className="cell normal" data-type="normal">
+                    <div className="innerCell">
+                      <hr />
+                      <h1 id="BRD-Seatmap-2023-11-15-Introduction">Introduction</h1>
+                      <p>
+                        When a user select the flight itinerary and complete his personal
+                        information, it is expected to has the ability to select the seats for each
+                        flight segment.
+                      </p>
+                      <h2 id="BRD-Seatmap-2023-11-15-Purpose">Purpose</h2>
+                      <p>
+                        The purpose of this feature is to enhance the customer experience and being
+                        align with the normal product offered by similar product in the travel
+                        industry
+                      </p>
+                      <h2 id="BRD-Seatmap-2023-11-15-Scope">Scope</h2>
+                      <p>
+                        This feature will impact direct to the consumers of the application, Travel
+                        agents as well as final consumers. Adding this new step in the booking flow
+                        will consume more time to complete a transaction but, this is something
+                        essential to offer to our consumers and at this time, it is a mandatory step
+                        to enhance the customer experience.{' '}
+                      </p>
+                      <p>
+                        Given the selected itinerary, our orchestrator has the right endpoint to
+                        request the seat map detail by each segment included in the flight itinerary
+                        with all the details.{' '}
+                      </p>
+                      <hr />
+                      <h2 id="BRD-Seatmap-2023-11-15-FunctionalRequirement">
+                        Functional Requirement
+                      </h2>
+                      <p>
+                        <strong>Use case</strong>
+                      </p>
+                      <div className="table-wrap">
+                        <table
+                          data-table-width={1190}
+                          data-layout="default"
+                          data-local-id="f42d040e-160e-47dd-bf76-713a04387103"
+                          className="confluenceTable"
+                        >
+                          <colgroup>
+                            <col />
+                            <col style={{ width: '1148.0px' }} />
+                          </colgroup>
+                          <tbody>
+                            <tr>
+                              <th className="numberingColumn confluenceTh" />
+                              <th className="confluenceTh">
+                                <p>
+                                  <strong>Consumer gets the seat map details</strong>
+                                </p>
+                              </th>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">1</td>
+                              <td className="confluenceTd">
+                                <p>User login in the App</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">2</td>
+                              <td className="confluenceTd">
+                                <p>
+                                  User search for a Flight (ex: BOS - MIA - 05NOV | MIA - BOS 09NOV)
+                                </p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">3</td>
+                              <td className="confluenceTd">
+                                <p>User gets the list of itinerary offers</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">4</td>
+                              <td className="confluenceTd">
+                                <p>User selects an itinerary in lowest available fare</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">5</td>
+                              <td className="confluenceTd">
+                                <p>User selects Book Now</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">6</td>
+                              <td className="confluenceTd">
+                                <p>User completes the Personal Information.</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">7</td>
+                              <td className="confluenceTd">
+                                <p>User completes the Form of Payment.</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">8</td>
+                              <td className="confluenceTd">
+                                <p>User has the option to Select Seats.</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">9</td>
+                              <td className="confluenceTd">
+                                <p>User displays the seat map starting for the 1st segment.</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">10</td>
+                              <td className="confluenceTd">
+                                <p>User sees the Seat Map component with the available seats.</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">11</td>
+                              <td className="confluenceTd">
+                                <p>
+                                  User mouse over a seat and see the characteristics of the seat,
+                                  characteristics of the row, and the price of seat.
+                                </p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">12</td>
+                              <td className="confluenceTd">
+                                <p>
+                                  User clicks over a seat and it is automatically selected and
+                                  display a person Icon to indicate visually the seat selected.{' '}
+                                </p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">13</td>
+                              <td className="confluenceTd">
+                                <p>
+                                  Users see on the left summary trip component that the value of the
+                                  seat has been added.{' '}
+                                </p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">14</td>
+                              <td className="confluenceTd">
+                                <p>User moves to the next tab to see the next flight segment </p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">15</td>
+                              <td className="confluenceTd">
+                                <p>User repeat the previous steps and select the return seat.</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">16</td>
+                              <td className="confluenceTd">
+                                <p>
+                                  Price of the seat has been added per flight segment (Price and
+                                  Tax).
+                                </p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">17</td>
+                              <td className="confluenceTd">
+                                <p>Total price of the trip is accordingly update.</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td className="numberingColumn confluenceTd">18</td>
+                              <td className="confluenceTd">
+                                <p>
+                                  User finishes the seat selection and continue with the booking
+                                  flow.{' '}
+                                </p>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <h3 id="BRD-Seatmap-2023-11-15-Context">Context</h3>
+                      <p>
+                        The users that select a seat must be an identified user. In future this
+                        could be tied to the Know Traveler concept associated with discounts,
+                        loyalty programs that will affect the seat map selection.{' '}
+                      </p>
+                      <h3 id="BRD-Seatmap-2023-11-15-UserRequirement">User Requirement</h3>
+                      <blockquote>
+                        <p>
+                          Pre condition of the user, Business context for the feature, expected
+                          result
+                        </p>
+                      </blockquote>
+                      <p>
+                        The user must be an authenticated users with a valid flight selection cart
+                        and sessionId. <br />
+                        All the roles/actors in the app can select seats
+                        <br />
+                        The feature is not controlled by Command Center toggle, it is an
+                        intrinsically functionality of the Flight Domain.
+                      </p>
+                      <hr />
+                      <h2 id="BRD-Seatmap-2023-11-15-FunctionalGoals">Functional Goals</h2>
+                      <blockquote>
+                        <p>Description of the business impact</p>
+                      </blockquote>
+                      <p>
+                        Adding new functionalities and capabilities to the flight product will
+                        seduce our consumer to start reusing. This feature is part of large strategy
+                        of refreshing the all flights product to revert the user experience. make it
+                        more attractive and functional.{' '}
+                      </p>
+                      <p>The idea of this strategy has 2 major points:</p>
+                      <p>1 - Increase the functionalities and the customer experience</p>
+                      <p>2 - Generate more air transactions and get more payments. </p>
+                      <h3 id="BRD-Seatmap-2023-11-15-Measuresuccess">Measure success</h3>
+                      <blockquote>
+                        <p>
+                          Any action that be useful to measure the success of the feature, Metrics
+                          to track behavior, measure productivity, customer surveys, etc
+                        </p>
+                      </blockquote>
+                      <ul>
+                        <li>
+                          <p>How many users displays the seat map</p>
+                        </li>
+                        <li>
+                          <p>How many users book seats</p>
+                        </li>
+                        <li>
+                          <p>How many users complete the checkout holding seats</p>
+                        </li>
+                        <li>
+                          <p>
+                            Survey to our consumers about the inclusion of the new functionality of
+                            seat maps.{' '}
+                          </p>
+                        </li>
+                      </ul>
+                      <h2 id="BRD-Seatmap-2023-11-15-DefinitionofReadiness">
+                        Definition of Readiness
+                      </h2>
+                      <blockquote>
+                        <p>Describe the process to define the feature as ready for Production. </p>
+                        <p>Success Use cases</p>
+                        <p>Min. factible functionality to deliver</p>
+                        <p>MVPs acceptables</p>
+                      </blockquote>
+                      <ul>
+                        <li>
+                          <p>Users can select One Way, RoundTrip, Multi-destination seats</p>
+                        </li>
+                        <li>
+                          <p>Users can change the seat selected previously</p>
+                        </li>
+                        <li>
+                          <p>
+                            <strong>MVP1:</strong>
+                          </p>
+                          <ul>
+                            <li>
+                              <p>Get the seat map of a One way Itinerary</p>
+                              <ul>
+                                <li>
+                                  <p>User can select and pay for the selected seat</p>
+                                </li>
+                              </ul>
+                            </li>
+                            <li>
+                              <p>Get the seat map of a Round Trip itinerary</p>
+                              <ul>
+                                <li>
+                                  <p>User can select and pay for the selected seats.</p>
+                                </li>
+                              </ul>
+                            </li>
+                            <li>
+                              <p>Get the seat map of Multi-destination itinerary</p>
+                              <ul>
+                                <li>
+                                  <p>User can select and pay for the selected seats.</p>
+                                </li>
+                              </ul>
+                            </li>
+                          </ul>
+                        </li>
+                        <li>
+                          <p>
+                            <strong>MVP2:</strong>
+                          </p>
+                          <ul>
+                            <li>
+                              <p>User can change the selected seat before pay</p>
+                            </li>
+                            <li>
+                              <p>User can change the selected seat after pay</p>
+                              <ul>
+                                <li>
+                                  <p>Same price case</p>
+                                </li>
+                                <li>
+                                  <p>Different price case</p>
+                                </li>
+                              </ul>
+                            </li>
+                          </ul>
+                        </li>
+                        <li>
+                          <p>
+                            <strong>MVP 3:</strong>
+                          </p>
+                          <ul>
+                            <li>
+                              <p>After some research and data</p>
+                              <ul>
+                                <li>
+                                  <p>Include Known traveler concept with loyalty program.</p>
+                                </li>
+                                <li>
+                                  <p>Refresh the seat map based on Tier level.</p>
+                                </li>
+                                <li>
+                                  <p>Include discount for seats (Coupon, EMD-S, etc)</p>
+                                </li>
+                              </ul>
+                            </li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>{' '}
+        </div>
+        <div id="footer" role="contentinfo">
+          <section className="footer-body">
+            <p>Document generated by Confluence on Jul 09, 2024 08:02</p>
+            <div id="footer-logo">
+              <a href="http://www.atlassian.com/">Atlassian</a>
+            </div>
+          </section>
+        </div>
+      </div>
+    </>
   )
 }
 
