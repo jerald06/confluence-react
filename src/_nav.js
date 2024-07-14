@@ -111,6 +111,11 @@ const _nav = [
             name: 'BRD - Seat map - 2023-11-15',
             to: '/base/list-groups',
           },
+          {
+            component: CNavItem,
+            name: 'FRD - Seat map implementaton - MVP1',
+            to: '/base/FRD-seatmap',
+          },
         ],
       },
       {
