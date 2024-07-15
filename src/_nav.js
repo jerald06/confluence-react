@@ -119,6 +119,19 @@ const _nav = [
         ],
       },
       {
+        component: CNavGroup,
+        name: 'Ancillaries',
+        to: '/base/Ancillaries',
+        icon: <CIcon icon={cilPuzzle} customClassName="nav-icon" />,
+        items: [
+          {
+            component: CNavItem,
+            name: 'BRD - Ancillaries - 2023-11-16',
+            to: '/base/BRD-Ancillaries',
+          },
+        ],
+      },
+      {
         component: CNavItem,
         name: 'Navs & Tabs',
         to: '/base/navs',

@@ -12,6 +12,7 @@ const Carousels = React.lazy(() => import('./views/base/carousels/Carousels'))
 const Collapses = React.lazy(() => import('./views/base/collapses/Collapses'))
 const ListGroups = React.lazy(() => import('./views/base/list-groups/ListGroups'))
 const FRDSeatMap = React.lazy(() => import('./views/base/FRD-seatmap/FRDSeatMap'))
+const BRDAncillaries = React.lazy(() => import('./views/base/BRD-Ancillaries/BRDAncillaries'))
 const Navs = React.lazy(() => import('./views/base/navs/Navs'))
 const Paginations = React.lazy(() => import('./views/base/paginations/Paginations'))
 const Placeholders = React.lazy(() => import('./views/base/placeholders/Placeholders'))
@@ -66,6 +67,7 @@ const routes = [
   { path: '/base/collapses', name: 'Collapse', element: Collapses },
   { path: '/base/list-groups', name: 'List Groups', element: ListGroups },
   { path: '/base/FRD-seatmap', name: 'FRD seatmap', element: FRDSeatMap },
+  { path: '/base/BRD-Ancillaries', name: 'BRD Ancillaries', element: BRDAncillaries },
   { path: '/base/navs', name: 'Navs', element: Navs },
   { path: '/base/paginations', name: 'Paginations', element: Paginations },
   { path: '/base/placeholders', name: 'Placeholders', element: Placeholders },
